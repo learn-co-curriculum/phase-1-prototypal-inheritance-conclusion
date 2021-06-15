@@ -1,4 +1,4 @@
-# Prototypal OO in JavaScript
+# Prototypal Inheritance Conclusion
 
 You've now learned about the Prototypal model of Object-Orientation used by
 JavaScript, _natively_. These days, most OO JS will be written using `class`
